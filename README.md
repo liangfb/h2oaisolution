@@ -166,4 +166,4 @@ $> bin/spark-submit --packages ai.h2o:sparkling-water-package_2.11:3.26.10-2.4 e
 
 可通过参数配置对Sparkling Water进行调整，具体可配置的参数可参考：http://docs.h2o.ai/sparkling-water/2.4/latest-stable/doc/configuration/configuration_properties.html
 
-所使用的测试Samples: https://github.com/h2oai/sparkling-water/tree/master/examples
+POC测试所使用的示例参见pocs目录。
